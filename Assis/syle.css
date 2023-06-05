@@ -1,0 +1,27 @@
+*{
+    font-family: comic sans MS;
+}
+
+.container{
+    width:70vw;
+    border:2px solid black;
+    padding: 50px;
+    margin: 50px auto;
+    border-radius: 5px;
+    background-color: rgb(126, 169, 169);
+}
+h1{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+button{
+    
+    width:80%;
+    font-size: 1.2rem;
+    background-color: brown;
+}
+li{
+    cursor: pointer;
+}
